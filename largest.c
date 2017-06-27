@@ -8,11 +8,11 @@ if(n1>=n2)
 {
 printf("n1 is greater");
 }
-elseif("n2>=n3")
+else if(n2>=n3)
 {
 printf("n2is greater");
 }
-else(n3>=n1)
+else
 {
 printf("n3 is greater");
 }
